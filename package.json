@@ -1,0 +1,12 @@
+{
+  "name": "specialscript",
+  "version": "1.0.0",
+  "description": "javascript transpiler with 6 chars ()[]+!",
+  "main": "specialscript.js",
+  "keywords": [
+    "transpiler",
+    "javascript"
+  ],
+  "author": "puf17640",
+  "license": "WTFPL"
+}
