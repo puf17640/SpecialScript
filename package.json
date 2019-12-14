@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "javascript transpiler with 6 chars ()[]+!",
   "main": "specialscript.js",
+  "type": "module",
   "keywords": [
     "transpiler",
     "javascript"
